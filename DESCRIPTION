@@ -1,11 +1,10 @@
 Package: MicrobeAssociator
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Microbe Associator for Microbe Association
 Version: 0.1.0
 Author: molikd
 Maintainer: David Molik <dmolik@nd.edu>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: Examples of Text Mining for Microbe Enrichment
+License: GPL2
 Encoding: UTF-8
 LazyData: true
